@@ -25,19 +25,19 @@
         <tbody>
             <tr>
                 <td>NOMBRE</td>
-                <td id="nombrePokemon"></td>
+                <td id="nombreMorty"></td>
             </tr>
             <tr>
                 <td>PESO</td>
-                <td id="pesoPokemon"></td>
+                <td id="pesoMorty"></td>
             </tr>
             <tr>
                 <td>TIPO</td>
-                <td id="tipoPokemon"></td>
+                <td id="tipoMorty"></td>
             </tr>
             <tr>
                 <td>IMAGEN</td>
-                <td><img src="" alt="" id="imagenPokemon"></td>
+                <td><img src="" alt="" id="imagenMorty"></td>
             </tr>
         </tbody>
     </table>
